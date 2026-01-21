@@ -1,0 +1,22 @@
+{
+  "kazima_ozeti": {
+    "baslangic_zamani": "2026-01-21T10:00:00",
+    "bitis_zamani": "2026-01-21T10:05:30",
+    "sure_saniye": 330,
+    "islenen_toplam_url": 3,
+    "toplam_bulunan_dosyalar": 150,
+    "toplam_indirilen_dosyalar": 145,
+    "toplam_boyut_mb": 25.5,
+    "basari_orani": 96.67
+  },
+  "dosya_turune_gore": {
+    ".html": {"sayi": 50, "toplam_boyut_mb": 5.2},
+    ".css": {"sayi": 45, "toplam_boyut_mb": 3.8},
+    ".js": {"sayi": 50, "toplam_boyut_mb": 16.5}
+  },
+  "basarisiz_indirmeler": [],
+  "performans_metrikleri": {
+    "ortalama_indirme_suresi": 2.3,
+    "saniye_basina_dosya": 0.44
+  }
+}

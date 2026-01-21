@@ -1,0 +1,10 @@
+# Temel kullanım
+python -m turk_web_kaziyici --url-listesi https://example.com https://site.com --dosya-turleri .html .css
+
+# Gelişmiş kullanım
+python -m turk_web_kaziyici \
+  --url-listesi https://site1.com https://site2.org \
+  --dosya-turleri .html .css .js .png \
+  --cikis-klasoru indirmeler \
+  --calisanlar 10 \
+  --gecikme 1.5

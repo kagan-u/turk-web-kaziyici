@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: turk-web-kaziyici
+Version: 1.0.0
+License-File: LICENCE
+Requires-Dist: requests>=2.25.0
+Requires-Dist: beautifulsoup4>=4.9.0
+Requires-Dist: lxml>=4.6.0
+Dynamic: license-file
