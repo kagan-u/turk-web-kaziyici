@@ -28,7 +28,7 @@ pip install turk-web-kaziyici
 
 ### Kaynak koddan / From source:
 
-git clone https://github.com/yourusername/turk-web-kaziyici.git
+git clone https://github.com/kagan-u/turk-web-kaziyici.git
 cd turk-web-kaziyici
 pip install -e .
 
@@ -64,7 +64,7 @@ MIT License - Daha fazla bilgi için LICENSE dosyasına bakın.
 ### 📞 Destek / Support:
 Sorularınız veya sorunlarınız için:
 
-- GitHub Issues: https://github.com/yourusername/turk-web-kaziyici/issues
+- GitHub Issues: https://github.com/kagan-u/turk-web-kaziyici/issues
 - E-posta: kaganunal.15@gmail.com
 ### 🔄 Sürüm Geçmişi / Changelog:
 
