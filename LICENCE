@@ -1,21 +1,24 @@
-MIT License
+KAĞAN ÜNAL YAZILIM LİSANSI (2026)
 
-Copyright (c) 2026 Kağan Ünal
+Telif Hakkı (c) 2026 Kağan Ünal
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Bu yazılım, Kağan Ünal tarafından geliştirilmiş olup, yalnızca bu lisans kapsamında belirtilen koşullar altında kullanılabilir. Yazılımın tamamı veya herhangi bir kısmı, izin verilen alanlar dışında çoğaltılamaz, dağıtılamaz, değiştirilemez veya ticari amaçlarla kullanılamaz.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. İzin Verilen Kullanım Alanları:
+   - Kişisel kullanım ve eğitim amaçlı kullanım.
+   - Kodun incelenmesi, öğrenme ve geliştirme amacıyla değiştirilmesi ve test edilmesi.
+   - Yukarıdaki koşulları ihlal etmediği sürece, izin verilen kullanım alanlarında değişikliklerin paylaşılması mümkündür.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Yasaklar ve Sınırlamalar:
+   - Yazılımın ticari amaçla kullanılması kesinlikle yasaktır (doğrudan veya dolaylı gelir sağlamak amacıyla).
+   - Yazılımın yasa dışı, etik olmayan veya zararlı veri toplama amaçlarıyla kullanılması yasaktır.
+   - Kodun kaynağı belirtilmeden veya lisans koşullarına aykırı şekilde paylaşılması yasaktır.
+
+3. Sorumluluk Reddi:
+   - Yazılım “mevcut haliyle” sunulmaktadır; Kağan Ünal hiçbir garanti vermez.
+   - Yazılımın kullanımı veya kullanılamamasından doğacak doğrudan veya dolaylı zararlar için yazar sorumluluk kabul etmez.
+
+4. Özel İzin:
+   - Lisans maddeleri dışında herhangi bir kullanım için yazılı onay alınması zorunludur.
+
+Bu lisans, yazılımın güvenliğini ve kullanıcı haklarını korurken, belirli alanlarda esneklik sağlayacak şekilde tasarlanmıştır. Kullanıcılar, lisansın tüm şartlarını kabul etmiş sayılır.
