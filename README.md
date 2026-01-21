@@ -1,5 +1,5 @@
  # Türk Web Kazıyıcı (Turkish Web Scraper)
-
+![TurkWebKazıyıcı Logo](./logo.png)
 [![PyPI version](https://badge.fury.io/py/turk-web-kaziyici.svg)](https://badge.fury.io/py/turk-web-kaziyici)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 ![License](https://img.shields.io/badge/license-Ka%C4%9Fan%20%C3%9Cnal%20License-blue)
