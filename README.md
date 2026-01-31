@@ -28,11 +28,11 @@ pip install turk-web-kaziyici
 ```
 
 ### Kaynak koddan / From source:
-
+```bash
 git clone https://github.com/kagan-u/turk-web-kaziyici.git
 cd turk-web-kaziyici
 pip install -e .
-
+```
 ### 🚀 Hızlı Başlangıç / Quick Start
 *Temel Kullanım / Basic Usage:*
 temel_kullanim.py dosyasına bakınız.
