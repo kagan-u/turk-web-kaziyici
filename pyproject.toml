@@ -9,7 +9,7 @@ package-dir = {"" = "src"}
 where = ["src"]
 [project]
 name = "turk-web-kaziyici"
-version = "0.1.0"  # bu satırı ekle
+version = "0.1.0"  
 dependencies = [
     "requests",
     "beautifulsoup4",
